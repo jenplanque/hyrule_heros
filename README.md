@@ -18,7 +18,7 @@ If you have any suggestions or enhancement ideas, please feel free to reach out 
   - [Introduction](#introduction)
   - [Features](#features)
   - [Installation](#installation)
-    - [Prerequisites](#prerequisites)
+  - [Prerequisites](#prerequisites)
   - [Usage](#usage)
 
 ## Introduction
@@ -42,8 +42,7 @@ Welcome to Hyrule Heroes! This game allows you to take on the role of one of the
     ```
 3. Ensure you have Python installed (version 3.6 or higher).
 
-### Prerequisites
-
+## Prerequisites
 **Python 3.x**: Make sure you have Python 3.x installed on your machine. You can download it from [python.org](https://www.python.org/).
 
 ## Usage
