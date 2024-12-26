@@ -57,8 +57,8 @@ python Hyrule\ [main.py](http://_vscodecontentref_/1)
 ## Collaborators
 
 - [Travis Locke](https://github.com/Rigil87) - for introducing me to the **os.system('clear')** command (which I used a lot) and for providing unrivaled moral support for our entire cohort
-- [Katelyn Mehner](https://github.com/kmehner) - for teaching me how to use **MARK:** to easily keep track of key areas of my code and for helping me with get things organized
+- [Katelyn Mehner](https://github.com/kmehner) - for teaching me how to use **MARK:** to easily track key areas of my code and for helping me to get things structured and better organized
 - [Yessica Sosa](https://github.com/sosayessicaSE) - for helping me to drastically reduce the number of lines in my code and for introducing me to the concept of **modularization** (a new fave, even though I still cannot pronounce it properly)
-- [Dave Kidd](https://github.com/codingTempleDave) - for being an all-around awesome instructor, for always infusing an element of humor and levity into the classroom, and for continuing to put up with my never ending list of questions :)
+- [Dave Kidd](https://github.com/codingTempleDave) - for being an all-around awesome instructor, for always infusing an element of humor and levity into the classroom, while expertly navigating my never ending list of questions :)
 
 ```sh
